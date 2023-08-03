@@ -50,29 +50,6 @@
 
 
                         <!-- blue wrapper  -->
-
-                        <div class="wrapper blue" id = "wrapper-2">
-                   
-                                <div class="top" style = "color:#ffffff;" >
-                                    <h1 style = "color:#ffffff;" >OUR TIMELY WORK</h1>
-                                      We must collaborate between your available dates of our carriers in order to better match your timetable. We take into account all deadlines for delivery and collection, including business hours. While we try to accommodate your schedule, we kindly request a precise 1-2 day window for pickup and delivery in order to account for unanticipated delays.
-                                </div>
-                                      <br>
-                                      <br>
-                                      <br>
-                  
-                                <div class="blocks" id="reducegap">
-                                    <div class="OURWORK"><img class = "fadeimage " src="images\vision1.jpg" alt="" style= "background-size: 220px 280px"></div>
-                                    <div class="OURWORK"><img class = "fadeimage" src="images\courier.jpg" alt=""></div>
-                                    <div class="OURWORK"><img class = "fadeimage" src="images\track8.jpg" alt=""></div>
-                                    <div class="OURWORK"><img class = "fadeimage" src="images\vision6.png" alt=""></div>
-                                    
-                                </div>
-                                <br>
-                                <br>
-                                <br>
-                 
-                        </div>
                 
                 
                
@@ -80,7 +57,7 @@
                 <div class="wrapper" id = "wrapper-2">
                     
                     <div class="topline">
-                      <h1>OUR SPECIALITY </h1>
+                      <h1>OUR SERVICES SPECIALITY </h1>
                     </div>
                             <div class="paragraph">
                               Deliver Products to your doorstep faster than you think, who want to relocate their valuable belongings like home appliances, furniture, small goods, heavy items, clothes, sanitary, electronics, medicines,small machines, fertiliser, etc.              

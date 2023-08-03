@@ -51,16 +51,24 @@ if (!defined('ABSPATH'))
             <label class = " foot-heading"for="">CONTACT-US</label><br>
             <br>
             <ul>
-                <li><div class="address"> <div class = icon ><img src="images\location.png  " alt="addicon"></div><div class = "para"> 04, Bhogal Lane, Jangpura, Near Arya Samaj Mandir Jangpura, South East Delhi , Delhi-110014, INDIA</div></div></li><br>
-                <li><div class="address"><div class="icon"><img src="images\mail.png" alt="mailicon"></div><div class = "para"><a href="mailto:Contact@K-corp.in">Contact:+91 8447263946</a></div></div></li><br>
+                <li><div class="address"> <div class = icon ><img src="images\location.png  " alt="addicon"></div><div class = "para">Registered Address - 04, Bhogal Lane, Jangpura, Near Arya Samaj Mandir Jangpura, South East Delhi , Delhi-110014, INDIA</div></div></li><br>
+                <li><div class="address"><div class="icon"><img src="images\mail.png" alt="mailicon"></div><div class = "para"><a href="mailto:Contact@K-corp.in">Registered Mobile Number :- +91 8447263946</a></div></div></li><br>
+                <li><div class="address"><div class="icon"><img src="images\mail.png" alt="mailicon"></div><div class = "para"><a href="mailto:Contact@K-corp.in">Registered Email Adress - locator.ts@gmail.com</a></div></div></li><br>
             </ul>
+            </div>
+    <br>
+    <br>
+    <br>
+            <label class = " foot-heading"for="">We are here location</label><br>
+            <br>
+            <ul>
+            <li><div class="address"> <div class = icon ><img src="images\location.png  " alt="addicon"></div><div class = "para">Delhi</div></div></li><br>
 
-    </div>
    
    
 </div>
 <div class="wrapper brown" id = wrapper-3>
-<p class = "copywrite">&copy; Locator.All Rights Reserved</p>
+<p class = "copywrite">&copy; 2023Locator.All Rights Reserved</p>
 <div style="display:flex;gap:20px;">
     <a href="facebook.com" style="padding-left:300%;"><i class="fa-brands fa-facebook" style="font-size:20px;color:white;"></i></a>
     <a href="instagram.com"><i class="fa-brands fa-instagram" style="font-size:20px;color:white"></i></a>
